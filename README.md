@@ -1,6 +1,6 @@
 # Happy Coding :indonesia:
 ### Hii there! I am using Whatsapp.
-Go to [Demonkite's Wiki](https://github.com/inmyop/inmyop/wiki). 
+Go to [github-pages](https://bdrudin.github.io/). 
 
 #### **About Me**
 Enthusiastic, self-motivated, long-life learner, energetic and always eager to learn new skills.
