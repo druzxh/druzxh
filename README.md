@@ -1,8 +1,6 @@
 # Happy Coding :indonesia:
 ### Hii there! I am using Whatsapp.
 Go to my [github pages](https://bdrudin.github.io/).
-## Preview
-<img src="preview.png" width="50%">
 
 #### **About Me**
 Enthusiastic, self-motivated, long-life learner, energetic and always eager to learn new skills.
