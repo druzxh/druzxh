@@ -7,6 +7,6 @@ Enthusiastic, self-motivated, long-life learner, energetic and always eager to l
 
 Use a creative approach to problem solving and adapt to all challenging situations.
 
-I like to be productive every day and "go beyond your limits" is my personal motto.
+I like to be productive every day and "go beyond the limits" is my personal motto.
 
-### thanks and salam.
+### Thank You very much.
