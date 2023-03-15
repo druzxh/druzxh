@@ -9,4 +9,4 @@ Use a creative approach to problem solving and adapt to all challenging situatio
 
 I like to be productive every day and "go beyond the limits" is my personal motto.
 
-### Thank You very much.
+### Thank you
