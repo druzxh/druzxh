@@ -9,6 +9,6 @@ Use a creative approach to problem solving and adapt to all challenging situatio
 
 I like to be productive every day and "go beyond the limits" is my personal motto.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=bdrudin&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=druzxh&show_icons=true)
 
 ### Thank you
