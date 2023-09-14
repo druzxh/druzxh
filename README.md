@@ -1,6 +1,6 @@
 # Happy Coding :indonesia:
 ### Hii there! I am using Whatsapp.
-Go to my [portfolio web](https://bdrudin.github.io/) and my [notes](https://badrudin-docs.gitbook.io/notes) at gitbook.
+Go to my [portfolio web](https://druzxh.github.io/) and my [notes](https://badrudin-docs.gitbook.io/notes) at gitbook.
 
 #### **About Me**
 Enthusiastic, self-motivated, long-life learner, energetic and always eager to learn new skills.
