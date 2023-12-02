@@ -5,7 +5,7 @@ Tech Enthusiast with a strong interest in backend and operating system, along wi
 Explore more about my work and projects by visiting my portfolio website [here](https://badrudin.my.id).
 
 ### Projects & Contributions
-My repositories exhibit a diverse range of projects showcasing my proficiency in backend and frontend development, DevOps, and more. I actively contribute to open-source projects and maintain personal repositories focused on technologies such as React.js, Laravel, Express.js, Go, Docker, and Kubernetes.
+My repositories exhibit a diverse range of projects showcasing my proficiency in backend, frontend, DevOps, and more. I actively contribute to open-source projects and maintain personal repositories focused on technologies such as React.js, Laravel, Express.js, Go, Docker, and Kubernetes.
 
 ### Tech Stack Explorer
 <!--Programming/Backend-->
@@ -37,7 +37,10 @@ My repositories exhibit a diverse range of projects showcasing my proficiency in
 <!--Kubernetes-->
 <a href="https://kubernetes.io/"><img align="left" alt="Kubernetes" title="Kubernetes" width="30px" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIM1JJBkP0aQtuzdUBK4yy8hYY5DTMSv1_tXCfrkOeZHL8W0olzR7ZkJL_bxOb" /></a>
 <!--Linux-->
-<a href="#"><img align="left" alt="Linux" title="Linux" width="30px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" /></a>
+<a href="https://www.linux.org"><img align="left" alt="Linux" title="Linux" width="30px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" /></a>
+<!--Bash shell-->
+<a href="https://www.bash.org.uk"><img align="left" alt="Bash" title="Bash" width="30px" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMrKn9CsPhcMCDoe7V69tK0-d3vQP-XgEiLEs2uf8_3jhl5SuTO1hiIwy8M149" /></a>
+
 <!--Jenkins-->
 <a href="https://www.jenkins.io/"><img align="left" alt="Jenkins" title="Jenkins" width="30px" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPPadwCeDAVGBQgSmqsmr2jZLGLpDQy1zX_iAuBXPAdOJCizEiytTZwrVQ3fOz" /></a>
 <!--Grafana-->
