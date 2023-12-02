@@ -39,6 +39,12 @@ My repositories exhibit a diverse range of projects showcasing my proficiency in
 <a href="https://www.linux.org"><img align="left" alt="Linux" title="Linux" width="30px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" /></a>
 <!--Bash shell-->
 <a href="https://www.bash.org.uk"><img align="left" alt="Bash" title="Bash" width="30px" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMrKn9CsPhcMCDoe7V69tK0-d3vQP-XgEiLEs2uf8_3jhl5SuTO1hiIwy8M149" /></a>
+<!--AWS-->
+<a href="https://aws.amazon.com/"><img align="left" alt="Bash" title="Bash" width="30px" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeRVXK6gyLJFr0x-nNJCMoqMpB01Lay1SPcWXOIm6LZOL9xPeHj8c-kt_Voaql" /></a>
+<!--GCP-->
+<a href="https://cloud.google.com/"><img align="left" alt="Bash" title="Bash" width="30px" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZHOPrxW7Fp3VnsLFMvZ8_IN0qYmwk2iYF14wTcL7sqFg2Rn_QicGUIK0guAk9" /></a>
+<!--Alibaba cloud-->
+<a href="https://www.alibabacloud.com/"><img align="left" alt="Bash" title="Bash" width="30px" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSdgS25bYZyJJBIdCsCFtnTJqY5Qe_H-6FWB0EF1FKEkGcQrb9VYTPMfm2AE6z" /></a>
 
 <!--Jenkins-->
 <a href="https://www.jenkins.io/"><img align="left" alt="Jenkins" title="Jenkins" width="30px" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPPadwCeDAVGBQgSmqsmr2jZLGLpDQy1zX_iAuBXPAdOJCizEiytTZwrVQ3fOz" /></a>
