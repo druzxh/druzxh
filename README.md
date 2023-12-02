@@ -1,9 +1,8 @@
-# Hii there! I'm Badrudin:wave:
+# Hii there! I'm Badrudin :wave:
 ### About
 Tech Enthusiast with a strong interest in backend and operating system, along with a fervor for DevOps. I'm constantly exploring new technologies and methodologies to expand my skill set and tackle complex challenges in the tech world as a professional developer.
 
 Explore more about my work and projects by visiting my portfolio website [here](https://badrudin.my.id).
-
 ### Projects & Contributions
 My repositories exhibit a diverse range of projects showcasing my proficiency in backend, frontend, DevOps, and more. I actively contribute to open-source projects and maintain personal repositories focused on technologies such as React.js, Laravel, Express.js, Go, Docker, and Kubernetes.
 
