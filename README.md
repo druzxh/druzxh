@@ -9,7 +9,7 @@ My repositories exhibit a diverse range of projects showcasing my proficiency in
 ### Tech Stack Explorer
 <!--Programming/Backend-->
 <!--JavaSript-->
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="https://js.org"><img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <!--NodeJS-->
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="30px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
 <!--HapiJS-->
@@ -17,7 +17,7 @@ My repositories exhibit a diverse range of projects showcasing my proficiency in
 <!--PHP-->
   <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3060px-PHP-logo.svg.png" /></a>
 <!--Laravel-->
-  <a href="[https://www.php.net/](https://laravel.com/)"><img align="left" alt="Laravel" title="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/240px-Laravel.svg.png" />
+  <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/240px-Laravel.svg.png" />
   
 <!--Databases-->
 <!--MySql-->
@@ -59,9 +59,9 @@ My repositories exhibit a diverse range of projects showcasing my proficiency in
 <!--NuxtJS-->
 <a href="https://nuxtjs.org/"><img align="left" alt="Nuxt.js" title="Nuxt.js" width="30px" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeuTBsdQYx85jbhPWQdhtchlY127eOcYXWOH6NT9KOxKjjQhNJVBgYy2DQtR6-" /></a>
 <!--HTML5-->
-<a href="#"><img align="left" alt="HTML5" title="HTML5" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqzSvsrSi5_ldSkxFfncYDnOtX-VmcFCrlQ6lweNMHXZn8rUUBIIj1wxQbCwm" /></a>
+<a href="https://www.html.org.in/"><img align="left" alt="HTML5" title="HTML5" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqzSvsrSi5_ldSkxFfncYDnOtX-VmcFCrlQ6lweNMHXZn8rUUBIIj1wxQbCwm" /></a>
 <!--CSS3-->
-<a href=""><img align="left" alt="CSS3" title="CSS3" width="30px" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkGg4xHQnI96BelsfeKakHKlMfXrbMSCgof9otywUur17yYfL5ASHH_EN7iujc" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS3" title="CSS3" width="30px" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkGg4xHQnI96BelsfeKakHKlMfXrbMSCgof9otywUur17yYfL5ASHH_EN7iujc" /></a>
 <!--Bootstrap-->
 <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" /></a>
 <!--Material UI-->
