@@ -13,7 +13,9 @@ My repositories exhibit a diverse range of projects showcasing my proficiency in
 <!--NodeJS-->
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="30px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
 <!--HapiJS-->
-<a href="https://hapi.dev/"><img align="left" alt="Hapi.js" title="Hapi.js" width="30px" src="https://cdn.worldvectorlogo.com/logos/hapi.svg" /></a>
+<a href="https://adonisjs.com/"><img align="left" alt="Hapi.js" title="Hapi.js" width="30px" src="https://cdn.worldvectorlogo.com/logos/hapi.svg" /></a>
+<!--AdonisJS-->
+<a href="https://adonisjs.com/"><img align="left" alt="Hapi.js" title="Hapi.js" width="30px" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQgKsjbzQKIXa6sj0NJO_DtBjM6aodnZ-mIh9-VEVJ7sjBPWD7Fx6rPU1JncBT" /></a>
 <!--PHP-->
   <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3060px-PHP-logo.svg.png" /></a>
 <!--Laravel-->
