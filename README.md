@@ -6,7 +6,7 @@ Explore more about my work and projects by visiting my portfolio website [here](
 ### Projects & Contributions
 My repositories contains projects that demonstrate my proficiency in backend, frontend, DevOps, and more. I actively contribute to open-source projects and maintain personal repositories focused on technologies such as React.js, Laravel, Express.js, Jenkins, Docker, and Kubernetes.
 
-### Tech Stack Explorer
+### Explorerd Tech Stack
 <!--Programming/Backend-->
 <!--JavaSript-->
   <a href="https://js.org"><img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
