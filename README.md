@@ -1,12 +1,12 @@
 # Hii there! I'm Badrudin :wave:
 ### About
-Tech Enthusiast with a strong passion for backend, operating system, and DevOps practices. I'm constantly exploring new technologies and methodologies to expand my skill set and solve problems in the world of technology as a professional developer.
+Tech Enthusiast with a strong passion for backend, operating system, and DevOps practices. I'm constantly exploring new technologies and methodologies to expand my skill set and solve problems in the world of technology as a professional developer. I'm currently learning machine learning and AI technology.
 
 Explore more about my work and projects by visiting my portfolio website [here](https://badrudin.my.id).
 ### Projects & Contributions
 My repositories contains projects that demonstrate my proficiency in backend, frontend, DevOps, and more. I actively contribute to open-source projects and maintain personal repositories focused on technologies such as React.js, Laravel, Express.js, Jenkins, Docker, and Kubernetes.
 
-### Explorerd Tech Stack
+### Explored Tech Stack
 <!--Programming/Backend-->
 <!--JavaSript-->
   <a href="https://js.org"><img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
