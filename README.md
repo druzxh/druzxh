@@ -1,10 +1,10 @@
 # Hii there! I'm Badrudin :wave:
 ### About
-Tech Enthusiast with a strong passion for backend, operating system, and DevOps practices. I'm constantly exploring new technologies and methodologies to expand my skill set and solve problems in the world of technology as a professional developer. I'm currently learning machine learning and AI technology.
+Tech Enthusiast with a strong passion for backend, operating system, and DevOps practices. I'm constantly exploring new technologies and methodologies to expand my skill set and solve problems in the world of technology as a professional developer. I'm currently studying data science.
 
 Explore more about my work and projects by visiting my portfolio website [here](https://badrudin.my.id).
 ### Projects & Contributions
-My repositories contains projects that demonstrate my proficiency in backend, frontend, DevOps, and more. I actively contribute to open-source projects and maintain personal repositories focused on technologies such as React.js, Laravel, Express.js, Jenkins, Docker, and Kubernetes.
+My repositories contains projects that demonstrate my proficiency in backend, frontend, DevOps, and more. I actively contribute to open-source projects and maintain personal repositories focused on technologies such as React.js, Laravel, Jenkins, Docker, and Kubernetes.
 
 ### Explored Tech Stack
 <!--Programming/Backend-->
