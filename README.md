@@ -1,10 +1,9 @@
 # Hii there! I'm Badrudin :wave:
-### About
-Tech Enthusiast with a strong passion for backend, operating system, and DevOps practices. I'm constantly exploring new technologies and methodologies to expand my skill set and solve problems in the world of technology as a professional developer. I'm currently studying data science.
+## About Me
 
-Explore more about my work and projects by visiting my portfolio website [here](https://badrudin.my.id).
-### Projects & Contributions
-My repositories contains projects that demonstrate my proficiency in backend, frontend, DevOps, and more. I actively contribute to open-source projects and maintain personal repositories focused on technologies such as React.js, Laravel, Jenkins, Docker, and Kubernetes.
+I am a full-stack developer with a strong passion for backend development and building robust servers. My journey in the tech world is driven by a constant curiosity and a desire to solve complex problems. As a professional developer, I'm always exploring new technologies and methodologies to expand my skill set.
+
+Explore more about my work and projects by visiting my [portfolio website](https://badrudin.my.id).
 
 ### Explored Tech Stack
 <!--Programming/Backend-->
